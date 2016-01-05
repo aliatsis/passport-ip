@@ -34,4 +34,4 @@ Then passport-ip will use the X-Forwarded-For header.
 
 ## License
 
-MIT 2014 Eugenio Pace
+MIT 2016 Anthony Liatsis
