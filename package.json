@@ -3,21 +3,20 @@
   "version": "0.1.0",
   "description": "IP based authentication strategy for Passport.",
   "author": {
-    "name": "Eugenio Pace",
-    "email": "eugeniop@auth0.com",
-    "url": "http://www.auth0.com"
+    "name": "Anthony Liatsis",
+    "email": "anthony.liatsis@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eugeniop/passport-ip.git"
+    "url": "git://github.com/aliatsis/passport-ip.git"
   },
   "bugs": {
-    "url": "http://github.com/eugeniop/passport-ip/issues"
+    "url": "http://github.com/aliatsis/passport-ip/issues"
   },
   "main": "./lib/passport-ip",
   "dependencies": {
-    "passport": "~0.1.1",
-    "range_check": "0.0.1"
+    "passport": "~0.3.2",
+    "range_check": "~1.2.0"
   },
   "devDependencies": {
     "vows": "~0.8.1"
@@ -28,19 +27,15 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  }],
   "keywords": [
     "passport",
     "ip",
-    "auth",
-    "authn",
     "authentication"
   ],
   "readme": "README.md",
-  "homepage": "https://github.com/eugeniop/passport-ip"
+  "homepage": "https://github.com/aliatsis/passport-ip"
 }

@@ -1,8 +1,10 @@
 An IP based authentication passport strategy.
 
+This repository was forked from https://github.com/eugeniop/passport-ip and modified slightly.
+
 ## Installation
 
-npm i eugeniop/passport-ip --save
+npm i passport-ip --save
 
 ## Usage
 
